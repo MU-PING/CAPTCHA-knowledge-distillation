@@ -1,1 +1,1 @@
-# CAPTCHA-knowledge-distillation-
+# CAPTCHA-knowledge-distillation
