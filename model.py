@@ -94,7 +94,7 @@ class AdditionLayer(tf.keras.layers.Layer):
 
 class Distiller(tf.keras.Model):
 
-    def __init__(self, student, teacher):
+    def __init__(self, teacher, student):
         super().__init__()
         self.teacher = teacher
         self.student = student
